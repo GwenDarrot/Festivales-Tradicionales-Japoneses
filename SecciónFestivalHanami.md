@@ -1,4 +1,4 @@
-## Hanami - Contemplación de las Flores 🌸
+## Hanami - Contemplación de las Flores
 **Fecha**: Primavera (marzo y abril).
 
 Hanami es la tradición de observar y celebrar la belleza de las flores de cerezo (sakura) cuando florecen en primavera. Las familias y amigos se reúnen en parques para hacer *picnics* bajo los cerezos en flor, celebrando la belleza efímera de las flores.
