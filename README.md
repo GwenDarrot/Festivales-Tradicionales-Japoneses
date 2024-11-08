@@ -1,2 +1,2 @@
-# Festivales-Tradicionales-Japoneses
-Práctica MD: Desarrollo de una Página Web simulando trabajo en grupo utilizando GitHub Pages y Markdown.
+# Festivales Tradicionales Japoneses
+Bienvenidos a nuestra página dedicada a los festivales tradicionales de Japón. Estos eventos culturales son una parte esencial de la identidad japonesa, combinando historia, religión y celebración. Aquí exploraremos tres de los festivales más conocidos: **Tanabata**, **Obon** y **Hanami**.
