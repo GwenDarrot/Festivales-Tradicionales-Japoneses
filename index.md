@@ -36,7 +36,6 @@ Uno de los eventos más destacados de Obon es el *Bon Odori*, una danza tradicio
 - En Kioto, el festival culmina con el *Daimonji Gozan Okuribi*, donde grandes hogueras en forma de kanji se encienden en las montañas.
 - La danza Bon Odori puede ser alegre o solemne, dependiendo de la región.
 
-
 ## 🌸 Hanami - Contemplación de las Flores 🌸
 🗓️ **Fecha**: Primavera (marzo y abril).
 ![Hanami](Images/Hanami.jpg)
