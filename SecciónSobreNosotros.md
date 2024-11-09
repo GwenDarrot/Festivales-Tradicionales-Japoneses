@@ -1,2 +1,0 @@
-## Sobre Nosotros
-Esta página ha sido creada para una práctica educativa para desarrollar una Página Web simulando trabajo en equipo utilizando GitHub Pages, Markdown y Scrum. Además de explorar los festivales tradicionales de Japón y su significado cultural.
