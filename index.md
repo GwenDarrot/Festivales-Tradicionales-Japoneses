@@ -1,7 +1,5 @@
 # 👘 Festivales Tradicionales Japoneses 🎆
 Bienvenidos a nuestra página dedicada a los festivales tradicionales de Japón. Estos eventos culturales son una parte esencial de la identidad japonesa, combinando historia, religión y celebración. Aquí exploraremos tres de los festivales más conocidos: **Tanabata**, **Obon** y **Hanami**.
-__________________________________________
-
 
 
 ## 🎋 Tanabata - El Festival de las Estrellas 🎋
@@ -14,7 +12,6 @@ Durante Tanabata, la gente escribe sus deseos en tiras de papel llamadas *tanzak
 ### ✨ Curiosidades de Tanabata 
 - En Sendai, el festival Tanabata se celebra en agosto y es uno de los más famosos, con decoraciones de bambú enormes y elaboradas.
 - Las tiras de papel de colores representan deseos para diferentes aspectos de la vida, como amor, éxito y salud.
-__________________________________________
 
 
 
@@ -28,7 +25,6 @@ Uno de los eventos más destacados de Obon es el *Bon Odori*, una danza tradicio
 ### ✨ Curiosidades de Obon 
 - En Kioto, el festival culmina con el *Daimonji Gozan Okuribi*, donde grandes hogueras en forma de kanji se encienden en las montañas.
 - La danza Bon Odori puede ser alegre o solemne, dependiendo de la región.
-__________________________________________
 
 
 ## 🌸 Hanami - Contemplación de las Flores 🌸
@@ -41,7 +37,6 @@ Hanami tiene un significado profundo en la cultura japonesa, ya que simboliza la
 ### ✨ Curiosidades de Hanami 
 - Los lugares más famosos para Hanami incluyen el Parque Ueno en Tokio y el Castillo de Himeji.
 - Las flores de cerezo suelen durar solo una o dos semanas, haciendo que los días de Hanami sean especialmente significativos y esperados.
-__________________________________________
 
 
 ## 🎎 Sobre Nosotros
