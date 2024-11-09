@@ -2,6 +2,18 @@
 ![Intro](Images/Intro.jpg)
 Bienvenidos a nuestra página dedicada a los festivales tradicionales de Japón. Estos eventos culturales son una parte esencial de la identidad japonesa, combinando historia, religión y celebración. Aquí exploraremos tres de los festivales más conocidos: [**Tanabata**](#-tanabata---el-festival-de-las-estrellas-), [**Obon**](#-obon---festival-de-los-espíritus-) y [**Hanami**](#-hanami---contemplación-de-las-flores-).
 
+## ☰ Menú
+- [👘 Festivales Tradicionales Japoneses 🎆](#-festivales-tradicionales-japoneses-)
+  - [☰ Menú](#-menú)
+  - [🎋 Tanabata - El Festival de las Estrellas 🎋](#-tanabata---el-festival-de-las-estrellas-)
+    - [✨ Curiosidades de Tanabata](#-curiosidades-de-tanabata)
+  - [🏮 Obon - Festival de los Espíritus 🏮](#-obon---festival-de-los-espíritus-)
+    - [✨ Curiosidades de Obon](#-curiosidades-de-obon)
+  - [🌸 Hanami - Contemplación de las Flores 🌸](#-hanami---contemplación-de-las-flores-)
+    - [✨ Curiosidades de Hanami](#-curiosidades-de-hanami)
+  - [🎎 Sobre Nosotros](#-sobre-nosotros)
+  - [🗾 Referencias y Enlaces](#-referencias-y-enlaces)
+
 ## 🎋 Tanabata - El Festival de las Estrellas 🎋
 🗓️ **Fecha**: 7 de julio (o agosto en algunas regiones).
 ![Tanabata](Images/Tanabata.jpg)
@@ -23,7 +35,6 @@ Uno de los eventos más destacados de Obon es el *Bon Odori*, una danza tradicio
 ### ✨ Curiosidades de Obon 
 - En Kioto, el festival culmina con el *Daimonji Gozan Okuribi*, donde grandes hogueras en forma de kanji se encienden en las montañas.
 - La danza Bon Odori puede ser alegre o solemne, dependiendo de la región.
-
 
 ## 🌸 Hanami - Contemplación de las Flores 🌸
 🗓️ **Fecha**: Primavera (marzo y abril).
