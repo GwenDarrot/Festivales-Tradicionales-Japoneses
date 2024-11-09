@@ -1,14 +1,10 @@
 # 👘 Festivales Tradicionales Japoneses 🎆
-
 ![Intro](Images/Intro.jpg)
-
 Bienvenidos a nuestra página dedicada a los festivales tradicionales de Japón. Estos eventos culturales son una parte esencial de la identidad japonesa, combinando historia, religión y celebración. Aquí exploraremos tres de los festivales más conocidos: **Tanabata**, **Obon** y **Hanami**.
 
 ## 🎋 Tanabata - El Festival de las Estrellas 🎋
 🗓️ **Fecha**: 7 de julio (o agosto en algunas regiones).
-
 ![Tanabata](Images/Tanabata.jpg)
-
 Tanabata celebra la historia de amor entre Orihime (la estrella Vega) y Hikoboshi (la estrella Altair), quienes solo pueden encontrarse una vez al año, el séptimo día del séptimo mes. Según la leyenda, la Vía Láctea separa a estos dos amantes y solo se les permite reunirse si el cielo está despejado.
 
 Durante Tanabata, la gente escribe sus deseos en tiras de papel llamadas *tanzaku* y las cuelga en ramas de bambú, esperando que se hagan realidad. Los festivales de Tanabata incluyen decoraciones coloridas, desfiles y fuegos artificiales en muchas ciudades de Japón.
@@ -19,9 +15,7 @@ Durante Tanabata, la gente escribe sus deseos en tiras de papel llamadas *tanzak
 
 ## 🏮 Obon - Festival de los Espíritus 🏮
 🗓️ **Fecha**: Generalmente en agosto, aunque varía según la región.
-
 ![Obon](Images/Obon.jpg)
-
 Obon es un festival budista para honrar a los espíritus de los antepasados. Se cree que durante Obon, los espíritus regresan al mundo de los vivos para reunirse con sus familias. Para darles la bienvenida, las familias decoran los altares domésticos y visitan las tumbas.
 
 Uno de los eventos más destacados de Obon es el *Bon Odori*, una danza tradicional que varía de región en región. Las danzas se realizan al ritmo de la música folclórica y se llevan a cabo en plazas y templos. El festival concluye con la ceremonia *Toro Nagashi*, donde se colocan linternas flotantes en ríos para guiar a los espíritus de regreso.
@@ -33,9 +27,7 @@ Uno de los eventos más destacados de Obon es el *Bon Odori*, una danza tradicio
 
 ## 🌸 Hanami - Contemplación de las Flores 🌸
 🗓️ **Fecha**: Primavera (marzo y abril).
-
 ![Hanami](Images/Hanami.jpg)
-
 Hanami es la tradición de observar y celebrar la belleza de las flores de cerezo (sakura) cuando florecen en primavera. Las familias y amigos se reúnen en parques para hacer *picnics* bajo los cerezos en flor, celebrando la belleza efímera de las flores.
 
 Hanami tiene un significado profundo en la cultura japonesa, ya que simboliza la fugacidad de la vida y la belleza. La televisión y las redes sociales japonesas informan sobre la "frontera de floración" (*sakura zensen*), que marca el avance de la floración desde el sur al norte del país.
@@ -47,8 +39,6 @@ Hanami tiene un significado profundo en la cultura japonesa, ya que simboliza la
 
 ## 🎎 Sobre Nosotros
 Esta página ha sido creada para una práctica educativa para desarrollar una Página Web simulando trabajo en equipo utilizando GitHub Pages, Markdown y Scrum. Además de explorar los festivales tradicionales de Japón y su significado cultural.
-
-
 
 ## 🗾 Referencias y Enlaces
 
