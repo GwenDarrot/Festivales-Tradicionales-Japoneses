@@ -3,8 +3,6 @@
 Bienvenidos a nuestra página dedicada a los festivales tradicionales de Japón. Estos eventos culturales son una parte esencial de la identidad japonesa, combinando historia, religión y celebración. Aquí exploraremos tres de los festivales más conocidos: [**Tanabata**](#-tanabata---el-festival-de-las-estrellas-), [**Obon**](#-obon---festival-de-los-espíritus-) y [**Hanami**](#-hanami---contemplación-de-las-flores-).
 
 ## ☰ Menú
-- [👘 Festivales Tradicionales Japoneses 🎆](#-festivales-tradicionales-japoneses-)
-  - [☰ Menú](#-menú)
   - [🎋 Tanabata - El Festival de las Estrellas 🎋](#-tanabata---el-festival-de-las-estrellas-)
     - [✨ Curiosidades de Tanabata](#-curiosidades-de-tanabata)
   - [🏮 Obon - Festival de los Espíritus 🏮](#-obon---festival-de-los-espíritus-)
